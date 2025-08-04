@@ -3,7 +3,7 @@
 <h1 align="center">Matt Grofsky</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=22&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=CTO+%7C+Doctor+of+Engineering+(Cybersecurity)+%7C+Builder+of+Generative+Security+Tools" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=22&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=CTO+%7C+D.Eng+(Cybersecurity);Builder+of+Generative+Security+Tools;AI+%2B+Security+Automation;Threat+Modeling+with+LLMs" alt="Typing SVG" />
 </p>
 
 <p align="center">
