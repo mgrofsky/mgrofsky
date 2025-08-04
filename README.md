@@ -17,57 +17,45 @@
 
 ## 🧠 About Me
 
-I build generative tools that help any organization, regardless of size or resources, meet its cybersecurity mission. My work focuses on making threat modeling, automation, and security engineering scalable, repeatable, and accessible without enterprise overhead.
+I build generative security tools that democratize cybersecurity. My work helps organizations of any size understand threats, reduce analyst burden, and meet their security goals without relying on enterprise-scale resources.
 
-> _Security isn’t about more controls — it’s about better ones. I write code, build tools, and publish research that helps teams get there._
-
+> _Security is not about more controls. It is about better ones. I write code, build tools, and publish research that helps teams get there._
 
 ---
 
 ## 📖 Research & Publications
 
-- **[AegisShield: Democratizing Cyber Threat Modeling with Generative AI](https://www.proquest.com/docview/3233915741)**  
-  Doctoral research automating threat modeling using STRIDE and MITRE ATT&CK, benchmarked across thousands of expert-labeled and AI-generated threats.
+Grofsky, M. A. (2025). *AegisShield: Democratizing cyber threat modeling with generative AI* (Doctoral praxis, The George Washington University). ProQuest Dissertations & Theses Global. https://www.proquest.com/docview/3233915741
 
-- **[Decoding Security: Leveraging Generative AI to Transform SAST Results into Actionable Insights](https://medium.com/bugbountywriteup/decoding-security-leveraging-generative-ai-to-transform-sast-results-into-actionable-insights-d3669efa4858)**  
-  *Published in InfoSec Write-ups*
+Grofsky, M. (2023). *Decoding deception: Navigating the maze of cyber attribution*. Medium. https://medium.com/@mgrofsky/decoding-deception-navigating-the-maze-of-cyber-attribution-a3b018719dc2
 
-- **[Decoding Deception: Navigating the Maze of Cyber Attribution](https://medium.com/@mgrofsky/decoding-deception-navigating-the-maze-of-cyber-attribution-a3b018719dc2)**
+Grofsky, M. (2023). *Decoding security: Leveraging generative AI to transform static application security testing results into actionable insights*. InfoSec Write-ups (Medium). https://infosecwriteups.com/decoding-security-leveraging-generative-ai-to-transform-sast-results-into-actionable-insights-d3669efa4858
 
-- **[Just-In-Time Access in Google Cloud: Enhancing Security with Real-time Alerts](https://medium.com/bugbountywriteup/just-in-time-access-in-google-cloud-enhancing-security-with-real-time-alerts-935de53cb8d3)**  
-  *Published in InfoSec Write-ups*
+Grofsky, M. (2023). *Just-in-time access in Google Cloud: Enhancing security with real-time alerts*. InfoSec Write-ups (Medium). https://infosecwriteups.com/just-in-time-access-in-google-cloud-enhancing-security-with-real-time-alerts-935de53cb8d3
 
-- **[Security & Privacy by Design](https://medium.com/@mgrofsky/implement-cybersecurity-from-the-start-7d04e60857d2)**
+Grofsky, M. (2023). *Security & privacy by design*. Medium. https://medium.com/@mgrofsky/implement-cybersecurity-from-the-start-7d04e60857d2
 
-- **[Analyze Your Call Recordings With Google AI](https://medium.com/@mgrofsky/analyze-your-call-recordings-with-google-ai-6e15ddcdac1d)**
+Grofsky, M. (2020). *Analyze your call recordings with Google AI*. Medium. https://medium.com/@mgrofsky/analyze-your-call-recordings-with-google-ai-6e15ddcdac1d
 
-- **[Google AI Vision & Text to Speech on a Raspberry Pi](https://medium.com/swlh/google-ai-vision-text-to-speech-on-a-raspberry-pi-875dc13b3d73)**  
-  *Published in The Startup*
+Grofsky, M. (2020). *Google AI Vision & Text to Speech on a Raspberry Pi*. The Startup (Medium). https://medium.com/swlh/google-ai-vision-text-to-speech-on-a-raspberry-pi-875dc13b3d73
 
-- **[Building Scaleable .NET Apps Without Windows](https://medium.com/swlh/building-scaleable-net-apps-without-windows-de6d3ad5de1a)**  
-  *Published in The Startup*
+Grofsky, M. (2019). *Building scaleable .NET apps without Windows*. The Startup (Medium). https://medium.com/swlh/building-scaleable-net-apps-without-windows-de6d3ad5de1a
 
-- **[Error Budgeting & Site Reliability Engineering](https://medium.com/swlh/error-budgeting-site-reliability-engineering-e71b104daa73)**  
-  *Published in The Startup*
-
-- **[Featured in CIOReview: Ytel](https://contact-center.cioreview.com/vendor/2014/ytel)**
-
-- **[Quoted in TechTarget: AI Chatbots in Contact Centers](https://www.techtarget.com/searchcustomerexperience/feature/AI-chatbots-augment-humans-working-in-contact-centers)**
+Grofsky, M. (2019). *Error budgeting & site reliability engineering*. The Startup (Medium). https://medium.com/swlh/error-budgeting-site-reliability-engineering-e71b104daa73
 
 ---
 
 ## 🔬 Focus Areas
 
-- Generative AI for threat modeling and red teaming
-- Adversarial LLMs and model abuse
-- STRIDE/ATT&CK hybrid frameworks
-- SAST/DAST automation at scale
-- Cloud security + ML-driven detection pipelines
-- Real tools for actual security teams
+- Generative AI for threat modeling and red teaming  
+- Adversarial LLMs and model abuse  
+- STRIDE/ATT&CK hybrid frameworks  
+- SAST/DAST automation at scale  
+- Cloud security + ML-driven detection pipelines  
+- Real tools for actual security teams  
 
 ---
 
 ## 🛰️ Connect
 
 If you're working on security tooling, red team automation, or AI in ops — reach out.
-
