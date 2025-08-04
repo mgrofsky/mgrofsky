@@ -1,74 +1,62 @@
-# Matt Grofsky
+<!-- ======================= -->
+<!--      MATT GROFSKY      -->
+<!-- ======================= -->
 
-**CTO | Doctor of Engineering (Cybersecurity) | Researcher | Builder of generative tools for real-world security problems**
+<p align="center">
+  <strong>CTO | D.Eng (Cybersecurity) | AI-Driven Security Researcher</strong>
+</p>
 
-I work at the intersection of machine learning, automation, and security engineering. My focus is on applying generative AI to simplify threat modeling, reduce analyst fatigue, and make security workflows more scalable and repeatable.
-
----
-
-## 📖 Selected Publications
-
-- [Decoding Security: Leveraging Generative AI to Transform SAST Results into Actionable Insights](https://medium.com/bugbountywriteup/decoding-security-leveraging-generative-ai-to-transform-sast-results-into-actionable-insights-d3669efa4858)  
-  *Published in InfoSec Write-ups*
-
-- [Decoding Deception: Navigating the Maze of Cyber Attribution](https://medium.com/@mgrofsky/decoding-deception-navigating-the-maze-of-cyber-attribution-a3b018719dc2)  
-  *Oct 2023*
-
-- [Just-In-Time Access in Google Cloud: Enhancing Security with Real-time Alerts](https://medium.com/bugbountywriteup/just-in-time-access-in-google-cloud-enhancing-security-with-real-time-alerts-935de53cb8d3)  
-  *Published in InfoSec Write-ups*
-
-- [Security & Privacy by Design](https://medium.com/@mgrofsky/implement-cybersecurity-from-the-start-7d04e60857d2)  
-  *Aug 2023*
-
-- [Analyze Your Call Recordings With Google AI](https://medium.com/@mgrofsky/analyze-your-call-recordings-with-google-ai-6e15ddcdac1d)  
-  *Sep 2020*
-
-- [Google AI Vision & Text to Speech on a Raspberry Pi](https://medium.com/swlh/google-ai-vision-text-to-speech-on-a-raspberry-pi-875dc13b3d73)  
-  *Published in The Startup*
-
-- [Building Scaleable .NET Apps Without Windows](https://medium.com/swlh/building-scaleable-net-apps-without-windows-de6d3ad5de1a)  
-  *Published in The Startup*
-
-- [Error Budgeting & Site Reliability Engineering](https://medium.com/swlh/error-budgeting-site-reliability-engineering-e71b104daa73)  
-  *Published in The Startup*
-
----
-
-## 🛡️ Praxis Research
-
-**[AegisShield: Democratizing Cyber Threat Modeling with Generative AI](https://www.proquest.com/docview/3233915741)**  
-Doctoral research exploring how generative AI can automate and democratize threat modeling aligned with STRIDE and MITRE ATT&CK. Evaluated across 8,000+ generated threats and 243 expert-labeled baselines.  
-*Published: George Washington University, 2025*
-
----
-
-## 🔍 Research Focus Areas
-
-- Generative AI for threat modeling and red teaming  
-- Adversarial LLMs and abuse scenarios  
-- STRIDE/ATT&CK hybrid workflows  
-- Scaling SAST, DAST, and cloud misconfiguration pipelines  
-- Building practical tools for actual security teams
-
----
-
-## 🛰️ Community + Presence
-
-<p align="left">
+<p align="center">
+  <a href="https://github.com/mattgrofsky">
+    <img src="https://img.shields.io/badge/GitHub-mattgrofsky-181717?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
   <a href="https://www.linkedin.com/in/mattgrofsky/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://bsky.app/profile/codemunkee.bsky.social">
-    <img src="https://img.shields.io/badge/Bluesky-1DA1F2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjMDFBMkYyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMCIgaGVpZ2h0PSIyMCI+PHBhdGggZD0iTTExLjMzNyAxNy40MmMuNDg5LTEuMTMzIDEuMjk0LTIuMjQ3IDIuNDY2LTMuMzQxIDIuMjQyLTIuMDU4IDQuMDc0LTQuNDIgNC4xNzMtNy4xMTguMTI2LTMuNTU0LTMuMjY0LTcuMDI3LTcuNjUtNi45MzUtMy43NTMuMDgtNi43MTcgMy4wNjctNi42NzggNi44MDQuMDM3IDIuNTc4IDEuNzI0IDQuNzgyIDMuODAyIDYuNjQzIDEuMzA1IDEuMDg3IDIuMTg2IDIuMDk0IDIuNzQyIDMuMDMyLjYxMiAxLjAyMi44NTkgMi4wMDYuNzI1IDIuOTgyLS44OTItLjY5NC0yLjE4LTEuNTgzLTMuNjI4LTIuNjM1QzYuNzI0IDE1LjA2OCA0LjU5IDE0LjExNiAzLjU4NiAxMi44ODVjLTEuNDg4LTEuODUyLTIuMjMyLTQuMjI5LTEuNjQ1LTYuNjg1Ljg2NC0zLjU2NSAzLjk4OC01LjcyNSA3LjAxMi01LjgxNSAzLjc1LS4xMTcgNy4xMzkgMi41NTcgNy4yMjUgNi4zNDYuMDk4IDMuNjIzLTIuNzA3IDcuMDU1LTYuNDI5IDkuMTMzLTEuNTAzIDEuMDQ0LTIuNzcgMi4wNTMtMy42MDQgMi44MTZ6Ii8+PC9zdmc+" alt="Bluesky">
-  </a>
-  <a href="https://www.reddit.com/user/code_munkee/">
-    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit">
+    <img src="https://img.shields.io/badge/LinkedIn-Matt%20Grofsky-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
   <a href="https://medium.com/@mgrofsky">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium" alt="Medium">
+  </a>
+</p>
+
+```bash
+matt@cybersec:~$ echo "Building generative AI to simplify threat modeling..."
+Building generative AI to simplify threat modeling, reduce analyst fatigue, and scale security workflows.
+```
+
+## ⚙️ Skills
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,go,aws,gcp,kubernetes,docker,git" alt="skills icons">
+</p>
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mattgrofsky&show_icons=true&theme=dark" alt="GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattgrofsky&layout=compact&theme=dark" alt="Top languages">
+</p>
+
+## 📖 Selected Publications
+- **Decoding Security**: Generative AI → Actionable SAST insights.  
+  [InfoSec Write-ups, Nov 2023](https://medium.com/bugbountywriteup/decoding-security-leveraging-generative-ai-to-transform-sast-results-into-actionable-insights-d3669efa4858)
+- **Decoding Deception**: Navigating the cyber attribution maze.  
+  [Medium, Oct 2023](https://medium.com/@mgrofsky/decoding-deception-navigating-the-maze-of-cyber-attribution-a3b018719dc2)
+- **Just-In-Time Access**: GCP real-time security alerts.  
+  [InfoSec Write-ups](https://medium.com/bugbountywriteup/just-in-time-access-in-google-cloud-enhancing-security-with-real-time-alerts-935de53cb8d3)
+
+## 🛡️ Praxis Research
+- **AegisShield**: Democratizing Cyber Threat Modeling with Generative AI  
+  [ProQuest, 2025](https://www.proquest.com/docview/3233915741)
+
+## 📫 Connect
+<p align="center">
+  <a href="https://bsky.app/profile/codemunkee.bsky.social">
+    <img src="https://img.shields.io/badge/Bluesky-1DA1F2?style=flat-square&logo=bluesky" alt="Bluesky">
+  </a>
+  <a href="https://www.reddit.com/user/code_munkee/">
+    <img src="https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit" alt="Reddit">
   </a>
 </p>
 
 ---
 
-> _Security isn’t about more controls — it’s about better ones. I write code, build tools, and publish research that helps teams get there._
+> _Security isn’t about more controls — it’s about better ones._  
+> I write code, build tools & publish research to help teams get there.
