@@ -17,9 +17,10 @@
 
 ## 🧠 About Me
 
-I work at the intersection of machine learning, automation, and security engineering. My focus is applying generative AI to simplify threat modeling, reduce analyst fatigue, and make security workflows scalable and repeatable.
+I build generative tools that help any organization, regardless of size or resources, meet its cybersecurity mission. My work focuses on making threat modeling, automation, and security engineering scalable, repeatable, and accessible without enterprise overhead.
 
 > _Security isn’t about more controls — it’s about better ones. I write code, build tools, and publish research that helps teams get there._
+
 
 ---
 
