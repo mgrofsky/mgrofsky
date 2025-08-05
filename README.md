@@ -58,4 +58,4 @@ Grofsky, M. (2019). *Error budgeting & site reliability engineering*. The Startu
 
 ## 🛰️ Connect
 
-If you're working on security tooling, red team automation, or AI in ops — reach out.
+If you're working on security tooling, red team automation, or AI in ops - reach out.
