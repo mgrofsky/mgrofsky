@@ -23,7 +23,7 @@ I build generative security tools that democratize cybersecurity. My work helps 
 
 I am the Chief Information Security Officer at Sharpen Technologies. I also serve as an adjunct professor and doctoral advisor in Cybersecurity Analytics at The George Washington University. Before that, I spent 15 years leading technology and security at a cloud communications company, building a large-scale developer platform and the security program around it.
 
-I have been a developer in some capacity for 30 years. Intelligent agents and bots are not new to me: I was building them professionally at [NQL](https://books.google.com/books/about/Network_Query_Language_NQL.html?id=SdwORcrO5VUC) 25 years ago, and today's agentic AI is the latest form of work I have been doing for most of my career.
+I have been a developer in some capacity for 30 years. Intelligent agents and bots are not new to me: I was building them professionally at NQL 25 years ago, and today's agentic AI is the latest form of work I have been doing for most of my career.
 
 ## Selected Work
 
