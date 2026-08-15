@@ -9,11 +9,11 @@ Adjunct Professor & Doctoral Advisor, The George Washington University
 
 <a href="https://mgrofsky.github.io/"><img src="https://readme-typing-svg.demolab.com?font=Figtree&weight=600&size=22&duration=3200&pause=900&color=F2B705&center=true&vCenter=true&width=620&lines=Democratizing+Cybersecurity;Cybersecurity+Enables+the+Mission;AI-Assisted+Security+Automation;Threat+Modeling+with+Generative+AI;Autonomous+Security%2C+With+Guardrails;AI-Driven+Incident+Investigation;Threat+Intelligence+%26+SIEM+Triage;PCI+DSS%2C+HIPAA+%26+SOC+2+Compliance;Secure+API+%26+MCP+Platforms;Google+Cloud+%26+AWS+Security;Python%2C+C%23+%26+.NET;Secure+by+Design" alt="Rotating headline: Democratizing Cybersecurity. Cybersecurity Enables the Mission. AI-Assisted Security Automation. Threat Modeling with Generative AI. Autonomous Security, With Guardrails. AI-Driven Incident Investigation. Threat Intelligence and SIEM Triage. PCI DSS, HIPAA and SOC 2 Compliance. Secure API and MCP Platforms. Google Cloud and AWS Security. Python, C# and .NET. Secure by Design."></a>
 
-<a href="https://mgrofsky.github.io/" title="Portfolio site"><img width="34" height="34" src="icons/portfolio.svg" alt="Portfolio site"></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/mattgrofsky" title="LinkedIn"><img width="34" height="34" src="icons/linkedin.svg" alt="LinkedIn"></a>&nbsp;&nbsp;&nbsp;
-<a href="https://scholar.google.com/citations?user=SQpoICUAAAAJ" title="Google Scholar"><img width="34" height="34" src="icons/google-scholar.svg" alt="Google Scholar"></a>&nbsp;&nbsp;&nbsp;
-<a href="https://orcid.org/0009-0004-7540-391X" title="ORCID"><img width="34" height="34" src="icons/orcid.svg" alt="ORCID"></a>&nbsp;&nbsp;&nbsp;
-<a href="https://medium.com/@mgrofsky" title="Medium"><img width="34" height="34" src="icons/medium.svg" alt="Medium"></a>
+<a href="https://mgrofsky.github.io/"><img width="18" height="18" src="icons/portfolio.svg" alt=""> Portfolio</a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/mattgrofsky"><img width="18" height="18" src="icons/linkedin.svg" alt=""> LinkedIn</a>&nbsp;&nbsp;&nbsp;
+<a href="https://scholar.google.com/citations?user=SQpoICUAAAAJ"><img width="18" height="18" src="icons/google-scholar.svg" alt=""> Google Scholar</a>&nbsp;&nbsp;&nbsp;
+<a href="https://orcid.org/0009-0004-7540-391X"><img width="18" height="18" src="icons/orcid.svg" alt=""> ORCID</a>&nbsp;&nbsp;&nbsp;
+<a href="https://medium.com/@mgrofsky"><img width="18" height="18" src="icons/medium.svg" alt=""> Medium</a>
 
 </div>
 
