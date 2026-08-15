@@ -1,61 +1,67 @@
-<!-- GitHub Profile README for Matt Grofsky -->
+<div align="center">
 
-<h1 align="center">Matt Grofsky</h1>
+<img src="banner.svg" alt="Matt Grofsky, D.Eng., CISSP. AI/ML & Cybersecurity Strategist. Chief Information Security Officer at Sharpen Technologies. Secure by Design." width="100%">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=22&duration=3500&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Technology+%7C+Security+%7C+D.Eng+(Cybersecurity);Builder+of+Generative+Security+Tools;AI+%2B+Security+Automation;Threat+Modeling+with+LLMs;Transforming+SAST+Findings+into+Insights;AI-Driven+Red+Teaming+Workflows;Simplifying+STRIDE+and+ATT%26CK;Detecting+Cloud+Misconfigurations+at+Scale;Real-Time+Access+Control+in+GCP;From+LLM+Abuse+to+Defenses;Decoding+Deception+in+Cyber+Attribution" alt="Typing SVG" />
-</p>
+<br><br>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mattgrofsky/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://bsky.app/profile/codemunkee.bsky.social"><img src="https://img.shields.io/badge/Bluesky-1d1d1d.svg?style=for-the-badge" /></a>
-  <a href="https://medium.com/@mgrofsky"><img src="https://img.shields.io/badge/Medium-%2312100E.svg?style=for-the-badge&logo=medium&logoColor=white" /></a>
-  <a href="https://www.reddit.com/user/code_munkee/"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=reddit&logoColor=white" /></a>
-</p>
+<a href="https://mgrofsky.github.io/"><img src="https://img.shields.io/badge/Portfolio-1b1b1d?style=for-the-badge&logo=githubpages&logoColor=f2b705" alt="Portfolio site"></a>
+<a href="https://www.linkedin.com/in/mattgrofsky"><img src="https://img.shields.io/badge/LinkedIn-1b1b1d?style=for-the-badge&logo=linkedin&logoColor=f2b705" alt="LinkedIn"></a>
+<a href="https://scholar.google.com/citations?user=SQpoICUAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-1b1b1d?style=for-the-badge&logo=googlescholar&logoColor=f2b705" alt="Google Scholar"></a>
+<a href="https://orcid.org/0009-0004-7540-391X"><img src="https://img.shields.io/badge/ORCID-1b1b1d?style=for-the-badge&logo=orcid&logoColor=f2b705" alt="ORCID"></a>
+<a href="https://medium.com/@mgrofsky"><img src="https://img.shields.io/badge/Medium-1b1b1d?style=for-the-badge&logo=medium&logoColor=f2b705" alt="Medium"></a>
 
----
+<img src="https://img.shields.io/badge/30-Years%20in%20Technology%20%26%20Security-1b1b1d?style=flat-square&labelColor=f2b705&color=1b1b1d" alt="30 years in technology and security">
+<img src="https://img.shields.io/badge/216-REST%20Endpoints%2C%20One%20MCP%20Layer-1b1b1d?style=flat-square&labelColor=f2b705&color=1b1b1d" alt="216 REST endpoints served through one MCP layer">
+<img src="https://img.shields.io/badge/US%207%2C831%2C028-Patent%20Co--Inventor-1b1b1d?style=flat-square&labelColor=f2b705&color=1b1b1d" alt="US Patent 7,831,028 co-inventor">
 
-## 🧠 About Me
+</div>
+
+## About
 
 I build generative security tools that democratize cybersecurity. My work helps organizations of any size understand threats, reduce analyst burden, and meet their security goals without relying on enterprise-scale resources.
 
-> _Security is not about more controls. It is about better ones. I write code, build tools, and publish research that helps teams get there._
+I am the Chief Information Security Officer at Sharpen Technologies. I also serve as an adjunct professor and doctoral advisor in Cybersecurity Analytics at The George Washington University. Before that, I spent 15 years leading technology and security at a cloud communications company, building a large-scale developer platform and the security program around it.
 
----
+## Selected Work
 
-## 📖 Research & Publications
+| Project | What it is |
+| --- | --- |
+| **AegisShield** | Generative AI threat modeling that lowers the barrier to entry for under-resourced teams. Validated in doctoral research on more than 8,000 generated threats. [Read the praxis](https://www.proquest.com/docview/3233915741) · [Code on GitHub](https://github.com/mgrofsky/AegisShield) |
+| **Large-Scale APIs & MCP** | An omnichannel communications developer platform with a secure MCP layer: 15 curated tools and discovery across 216 REST endpoints. [API documentation](https://api-docs.ytel.com/) |
+| **Pentest Arsenal** (private) | Autonomous red-team and blue-team operations inside hard guardrails: target validation, allowlists, phase budgets, audit records, and regression tests. |
+| **Claude Triage** | AI triage guidance inside the SIEM: suggested severity, false-positive likelihood, and analyst next steps. It adds context and never suppresses alerts. |
+| **Incident Investigator** (private) | An AI investigation workspace that hunts service outages and security incidents across live sources, then turns closed cases into ranked precedents. |
+| **PCI, HIPAA & SOC 2 Mock Auditor** (private) | A read-only AI assessor that audits live cloud, infrastructure as code, and application repos against PCI DSS, HIPAA, and SOC 2, separating documented policy from operating evidence. |
 
-Grofsky, M. A. (2025). *AegisShield: Democratizing cyber threat modeling with generative AI* (Doctoral praxis, The George Washington University). ProQuest Dissertations & Theses Global. https://www.proquest.com/docview/3233915741
+## Recent Research & Writing
 
-Grofsky, M. (2023). *Decoding deception: Navigating the maze of cyber attribution*. Medium. https://medium.com/@mgrofsky/decoding-deception-navigating-the-maze-of-cyber-attribution-a3b018719dc2
+- **2025** · [AegisShield: Democratizing Cyber Threat Modeling with Generative AI](https://www.proquest.com/docview/3233915741) · Doctoral praxis, The George Washington University
+- **2025** · [Freshness and the Limits of Heuristic Trend Detection in Temporal RAG](https://arxiv.org/abs/2509.19376) · Preprint, arXiv
+- **2023** · [Decoding Security: Leveraging Generative AI to Transform SAST Results into Actionable Insights](https://infosecwriteups.com/decoding-security-leveraging-generative-ai-to-transform-sast-results-into-actionable-insights-d3669efa4858) · InfoSec Write-ups
+- **2023** · [Just-in-Time Access in Google Cloud: Enhancing Security with Real-Time Alerts](https://infosecwriteups.com/just-in-time-access-in-google-cloud-enhancing-security-with-real-time-alerts-935de53cb8d3) · InfoSec Write-ups
+- **2023** · [Decoding Deception: Navigating the Maze of Cyber Attribution](https://medium.com/@mgrofsky/decoding-deception-navigating-the-maze-of-cyber-attribution-a3b018719dc2) · Medium
 
-Grofsky, M. (2023). *Decoding security: Leveraging generative AI to transform static application security testing results into actionable insights*. InfoSec Write-ups (Medium). https://infosecwriteups.com/decoding-security-leveraging-generative-ai-to-transform-sast-results-into-actionable-insights-d3669efa4858
+More on [Google Scholar](https://scholar.google.com/citations?user=SQpoICUAAAAJ) and [Medium](https://medium.com/@mgrofsky).
 
-Grofsky, M. (2023). *Just-in-time access in Google Cloud: Enhancing security with real-time alerts*. InfoSec Write-ups (Medium). https://infosecwriteups.com/just-in-time-access-in-google-cloud-enhancing-security-with-real-time-alerts-935de53cb8d3
+## Threat Intelligence Boards
 
-Grofsky, M. (2023). *Security & privacy by design*. Medium. https://medium.com/@mgrofsky/implement-cybersecurity-from-the-start-7d04e60857d2
+Five public dashboards I curate and use in my own security work:
+[Cyber Threat News](https://start.me/p/aNr8d0/cyber-threat-news) ·
+[Vendor Intelligence](https://start.me/p/ARqK5R/cyber-threat-vendor-news) ·
+[Government Sources](https://start.me/p/bprrP8/cyber-threat-government) ·
+[Research Tools](https://start.me/p/n7OBjD/cyber-threat-research-tools) ·
+[AI/ML Threat Intelligence](https://start.me/p/kv9qQE/ai-ml-threat-intelligence)
 
-Grofsky, M. (2020). *Analyze your call recordings with Google AI*. Medium. https://medium.com/@mgrofsky/analyze-your-call-recordings-with-google-ai-6e15ddcdac1d
+## Credentials & Community
 
-Grofsky, M. (2020). *Google AI Vision & Text to Speech on a Raspberry Pi*. The Startup (Medium). https://medium.com/swlh/google-ai-vision-text-to-speech-on-a-raspberry-pi-875dc13b3d73
+D.Eng. in Cybersecurity Analytics and M.Eng. in Cybersecurity Policy and Compliance from The George Washington University. CISSP. Co-inventor of U.S. Patent 7,831,028. Member of InfraGard, CR-ISAC, IEEE Computer Society, and ACM.
 
-Grofsky, M. (2019). *Building scaleable .NET apps without Windows*. The Startup (Medium). https://medium.com/swlh/building-scaleable-net-apps-without-windows-de6d3ad5de1a
+<br>
 
-Grofsky, M. (2019). *Error budgeting & site reliability engineering*. The Startup (Medium). https://medium.com/swlh/error-budgeting-site-reliability-engineering-e71b104daa73
+<div align="center">
 
----
+**Democratizing Cybersecurity**
 
-## 🔬 Focus Areas
+<sub>SECURE&nbsp;BY&nbsp;DESIGN</sub>
 
-- Generative AI for threat modeling and red teaming  
-- Adversarial LLMs and model abuse  
-- STRIDE/ATT&CK hybrid frameworks  
-- SAST/DAST automation at scale  
-- Cloud security + ML-driven detection pipelines  
-- Real tools for actual security teams  
-
----
-
-## 🛰️ Connect
-
-If you're working on security tooling, red team automation, or AI in ops - reach out.
+</div>
