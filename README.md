@@ -45,10 +45,10 @@ I have been a developer in some capacity for 30 years. Intelligent agents are no
 ## Recent Research & Writing
 
 - **2025** · [AegisShield: Democratizing Cyber Threat Modeling with Generative AI](https://www.proquest.com/docview/3233915741) · Doctoral praxis, The George Washington University
-- **2025** · [Freshness and the Limits of Heuristic Trend Detection in Temporal RAG](https://arxiv.org/abs/2509.19376) · Preprint, arXiv
+- **2025** · [Freshness and the Limits of Heuristic Trend Detection in Temporal RAG](https://arxiv.org/abs/2509.19376) · Preprint, arXiv · [Code on GitHub](https://github.com/mgrofsky/rag-time)
 - **2023** · [Decoding Security: Leveraging Generative AI to Transform SAST Results into Actionable Insights](https://infosecwriteups.com/decoding-security-leveraging-generative-ai-to-transform-sast-results-into-actionable-insights-d3669efa4858) · InfoSec Write-ups
 - **2023** · [Just-in-Time Access in Google Cloud: Enhancing Security with Real-Time Alerts](https://infosecwriteups.com/just-in-time-access-in-google-cloud-enhancing-security-with-real-time-alerts-935de53cb8d3) · InfoSec Write-ups
-- **2023** · [Decoding Deception: Navigating the Maze of Cyber Attribution](https://medium.com/@mgrofsky/decoding-deception-navigating-the-maze-of-cyber-attribution-a3b018719dc2) · Medium
+- **2020** · [Analyze Your Call Recordings with Google AI](https://medium.com/swlh/analyze-your-call-recordings-with-google-ai-6e15ddcdac1d) · The Startup
 
 More on [Google Scholar](https://scholar.google.com/citations?user=SQpoICUAAAAJ) and [Medium](https://medium.com/@mgrofsky).
 
