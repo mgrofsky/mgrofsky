@@ -17,6 +17,8 @@ Adjunct Professor & Doctoral Advisor, The George Washington University
 
 </div>
 
+<img src="icons/divider-gold.svg" width="100%" alt="">
+
 ## About
 
 I build generative security tools that democratize cybersecurity. My work helps organizations of any size understand threats, reduce analyst burden, and meet their security goals without relying on enterprise-scale resources.
@@ -24,6 +26,8 @@ I build generative security tools that democratize cybersecurity. My work helps 
 I am the Chief Information Security Officer at Sharpen Technologies. I also serve as an adjunct professor and doctoral advisor in Cybersecurity Analytics at The George Washington University. Before that, I spent 15 years leading technology and security at a cloud communications company, building a large-scale developer platform and the security program around it.
 
 I have been a developer in some capacity for 30 years. Intelligent agents are not new to me: I was building them professionally at NQL 25 years ago, and today's agentic AI is the latest form of work I have been doing for most of my career.
+
+<img src="icons/divider-magenta.svg" width="100%" alt="">
 
 ## Selected Work
 
@@ -36,6 +40,8 @@ I have been a developer in some capacity for 30 years. Intelligent agents are no
 | **Incident Investigator** (private) | An AI investigation workspace that hunts service outages and security incidents across live sources, then turns closed cases into ranked precedents. |
 | **PCI, HIPAA & SOC 2 Mock Auditor** (private) | A read-only AI assessor that audits live cloud, infrastructure as code, and application repos against PCI DSS, HIPAA, and SOC 2, separating documented policy from operating evidence. |
 
+<img src="icons/divider-gold.svg" width="100%" alt="">
+
 ## Recent Research & Writing
 
 - **2025** · [AegisShield: Democratizing Cyber Threat Modeling with Generative AI](https://www.proquest.com/docview/3233915741) · Doctoral praxis, The George Washington University
@@ -46,6 +52,8 @@ I have been a developer in some capacity for 30 years. Intelligent agents are no
 
 More on [Google Scholar](https://scholar.google.com/citations?user=SQpoICUAAAAJ) and [Medium](https://medium.com/@mgrofsky).
 
+<img src="icons/divider-magenta.svg" width="100%" alt="">
+
 ## Threat Intelligence Boards
 
 Five public dashboards I curate and use in my own security work:
@@ -55,11 +63,15 @@ Five public dashboards I curate and use in my own security work:
 [Research Tools](https://start.me/p/n7OBjD/cyber-threat-research-tools) ·
 [AI/ML Threat Intelligence](https://start.me/p/kv9qQE/ai-ml-threat-intelligence)
 
+<img src="icons/divider-gold.svg" width="100%" alt="">
+
 ## Credentials & Community
 
 D.Eng. in Cybersecurity Analytics and M.Eng. in Cybersecurity Policy and Compliance from The George Washington University. CISSP. Co-inventor of U.S. Patent 7,831,028. Member of InfraGard, CR-ISAC, IEEE Computer Society, and ACM.
 
 <br>
+
+<img src="icons/divider-magenta.svg" width="100%" alt="">
 
 <div align="center">
 
