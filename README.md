@@ -36,7 +36,7 @@ Early work at NQL in 2001 involved intelligent agents and content aggregation.
 | Project | What it is |
 | --- | --- |
 | **AegisShield** | Generative AI threat modeling that lowers the barrier to entry for under-resourced teams. Validated in doctoral research on more than 8,000 generated threats. [Read the praxis](https://www.proquest.com/docview/3233915741) · [Code on GitHub](https://github.com/mgrofsky/AegisShield) |
-| **Boundary Lab** | Tools for testing AI behavior and safety boundaries. Includes **Redline**, which checks chatbot answers against defined rules and measures how reliably violations are detected. Supports saved-run replay and promptfoo test configurations. [Code and results](https://github.com/mgrofsky/boundary-lab) |
+| **Boundary Lab** | Practical safety and security tools for chatbot apps. **Redline** checks answers against rules. **Latch** is a reusable Python package that checks permissions, approvals, and limits before a tool call runs. [Code and examples](https://github.com/mgrofsky/boundary-lab) · [Latch on PyPI](https://pypi.org/project/boundary-latch/) |
 | **Large-Scale APIs & MCP** | An omnichannel communications developer platform with a secure MCP layer: 15 curated tools and discovery across 216 REST endpoints. [API documentation](https://api-docs.ytel.com/) |
 | **Pentest Arsenal** (private) | Autonomous red-team and blue-team operations inside hard guardrails: target validation, allowlists, phase budgets, audit records, and regression tests. |
 | **Claude Triage** | AI triage guidance inside the SIEM: suggested severity, false-positive likelihood, and analyst next steps. It adds context and never suppresses alerts. |
