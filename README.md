@@ -5,7 +5,7 @@
 **AI Safety & Security Strategist**
 
 CISO, Sharpen Technologies<br>
-Runs and manages R&D across Sharpen, Plum Voice, Webtext, and Ytel<br>
+Runs and manages R&D and IT across Sharpen, Plum Voice, Webtext, and Ytel<br>
 Professorial Lecturer & Doctoral Advisor, The George Washington University
 
 <a href="https://mgrofsky.github.io/"><img src="https://readme-typing-svg.demolab.com?font=Figtree&weight=600&size=22&duration=3200&pause=900&color=F2B705&center=true&vCenter=true&width=620&lines=Democratizing+Cybersecurity;Advancing+the+Mission+Through+Security;AI-Assisted+Security+Automation;Threat+Modeling+with+Generative+AI;Autonomous+Security%2C+With+Guardrails;AI-Driven+Incident+Investigation;Machine+Learning+for+Alert+Triage;Scaling+Security+Pipelines;Real-Time+Security+Metrics;PCI+DSS%2C+HIPAA+%26+SOC+2+Compliance;Secure+API+%26+MCP+Platforms;Google+Cloud+%26+AWS+Security;Secure+by+Design" alt="Rotating headline: Democratizing Cybersecurity. Advancing the Mission Through Security. AI-Assisted Security Automation. Threat Modeling with Generative AI. Autonomous Security, With Guardrails. AI-Driven Incident Investigation. Machine Learning for Alert Triage. Scaling Security Pipelines. Real-Time Security Metrics. PCI DSS, HIPAA and SOC 2 Compliance. Secure API and MCP Platforms. Google Cloud and AWS Security. Secure by Design."></a>
@@ -26,7 +26,7 @@ Technology and security leader with an operator’s mindset and an architect’s
 
 Applies machine learning, generative AI, and agentic workflows to engineering and security problems. Work includes bespoke internal tools, customer-facing developer platforms, and applied research, with an emphasis on reducing operational toil, making security capabilities more accessible, and defining clear boundaries for AI-assisted and autonomous workflows.
 
-Chief Information Security Officer at Sharpen Technologies. Runs and manages R&D across Sharpen, Plum Voice, Webtext, and Ytel, with responsibility for engineering, CloudOps, and product management. Also serves as Professorial Lecturer & Doctoral Advisor in Cybersecurity Analytics at The George Washington University.
+Chief Information Security Officer at Sharpen Technologies. Runs and manages R&D and IT across Sharpen, Plum Voice, Webtext, and Ytel, with responsibility for engineering, CloudOps, and product management. Also serves as Professorial Lecturer & Doctoral Advisor in Cybersecurity Analytics at The George Washington University.
 
 Previously spent 15 years as CTO at Ytel, responsible for the entire technology organization, including software engineering, platform architecture, infrastructure, operations, and security.
 
